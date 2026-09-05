@@ -1,0 +1,7 @@
+brief: Data science relies heavily on statistical concepts and techniques. Here we try to summarise the more relevant for reference. 
+type: beamer
+state: public
+outline:
+ - Type of Data
+ - Descriptive statistics
+ - Probability in five minutes (probably)

@@ -1,0 +1,25 @@
+description: "
+The aims of this lab session are:<br />
+ <ul>
+ <li>Download and install the Anaconda distribution
+ (<a href='https://www.anaconda.com/download/success'>Anaconda (python 3.13 64-Bit)</a>).</li>
+ <li>Use the anaconda package manager, <code>conda</code>, to install some additional packages.</li>
+ <li>Create/edit/run python notebooks using the <code>jupyter-lab</code> interface.
+ </ul>
+In parallel with above, we want to review your existing data analysis skills with:
+<ul>
+ <li>Data analysis of the Tips dataset <strong>using software tools of your choice.</strong>.</li>
+</ul>
+"
+type: practical
+status: public
+
+
+old_stuff: "
+For this lab, we ask students to install software used in this module 
+(<a href='https://www.anaconda.com/products/distribution'>Anaconda (python 3.11 64-Bit)</a>).
+And gain familiarity with the <code>jupyter-lab</code> environment, that we will use during this module.
+The aims of this lab session are:<br />
+
+  This includes the python interpretor and standard libraries, a package manager called <code>conda</code> and editors/interfaces for developing in python.
+"

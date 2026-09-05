@@ -1,0 +1,10 @@
+brief: The Why? What? and How? of this module.
+type: beamer
+outline:
+ - Introduction, definitions and context
+ - Roles, expertise and ethics
+ - Workflow and process models
+ - Overview of Machine Learning Algorithms
+ - Delivery and Assessment
+ - Resources
+state: public

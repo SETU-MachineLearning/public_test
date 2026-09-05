@@ -1,0 +1,7 @@
+whitelist:
+- kmurphy
+- bbutler-tssg # student github ids are listed below here
+- student1-github-id
+students:
+- name: Firstname1 Surname1
+  github: student1-github-id

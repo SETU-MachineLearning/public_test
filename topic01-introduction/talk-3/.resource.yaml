@@ -1,0 +1,7 @@
+brief: "Pandas is a huge library and it is not practical to give a detailed description of its capabilities in a single session. So the focus here is on some of the operations that I find most useful."
+type: beamer
+state: public
+outline:
+ - Reading data formats
+ - Computing descriptive statistics
+ - Processing data by filtering and grouping
